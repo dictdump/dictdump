@@ -1,0 +1,48 @@
+<html>
+<body>
+<p class="list(1,1)">4. 漢字の分割の仕方</p>
+<br>
+<p class="list(1,5)">(1) 漢字を最初の｢可分点｣で2つに分ける</p>
+<br>
+<p class="list(1,5)">&F16F;　左から右へ進み､最初の空白で分ける</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">正:　　明　　小　　扱</p>
+<p class="list(7,7)">　　　4－4　1－2　3－3</p>
+<p class="list(7,7)">誤:　　小　　街</p>
+<p class="list(7,7)">　　　2－1　9－3</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(1,5)">&F16E;　上から下へ進み､一番最初に現れる空白または横線または枠要素のいずれかで分ける</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">　　　 三　　脅　　赤</p>
+<p class="list(7,7)">正:　 1－2　2－8　3－4</p>
+<p class="list(7,7)">誤:　 2－1　6－4　2－5</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(1,5)">&F16D;　外から内へ進み､最初の囲み要素で分ける</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">正:　　度　　進　　閉</p>
+<p class="list(7,7)">　　　3－6　3－8　8－3</p>
+<p class="list(7,7)">誤:　　度　　磨</p>
+<p class="list(7,7)">　　　7－2 11－5</p>
+<p class="list(7,7)">-------------------------</p>
+<br>
+<p class="list(1,1)">(2) ｢字形素分割禁止｣の原則を破らないこと</p>
+<p class="list(1,1)">1. 点画を分割しないこと</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">正:　　凶 &F16D;3－2－2</p>
+<p class="list(7,7)">誤:　　凶 &F16F;1－1－4</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(1,1)">2. ｢不可分字形素｣を分割しないこと</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">正:　　情 &F16F;1－3－8</p>
+<p class="list(7,7)">誤:　　情 &F16F;1－1－10</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(1,1)">3. ｢不自然分割｣をしないこと</p>
+<p class="list(7,7)">-------------------------</p>
+<p class="list(7,7)">正:　　気 &F16D;3－4－2</p>
+<p class="list(7,7)">誤:　　気 &F16E;2－2－4</p>
+<p class="list(7,7)">-------------------------</p>
+<form method="post" action="casio.cgi">
+　　　　　　　　　　　　<input type="radio" name="guide" value="guide00.htm" checked>項目選択へ戻る
+</form>
+</body>
+</html>
