@@ -1,0 +1,12 @@
+act_comp.cjd,29232,4096
+dir_comp.cjd,8545,2048
+comp.cjd,383383,65536
+l_comp.cjd,91687,8192
+act_btab.cjt,0,2,256
+actdbadd.cjt,0,3,256
+dir_btab.cjt,0,2,101
+dirdbadd.cjt,0,3,101
+e_dbadd.cjt,0,3,1672
+dbadd.cjt,0,3,2360
+j_btab.cjt,0,2,2360
+j_dbadd.cjt,0,3,2360
