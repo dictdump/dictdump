@@ -1,0 +1,16 @@
+re_comp.cjd,60102,8192
+rel_comp.cjd,3999,2048
+readbadd.cjt,0,3,416
+re_dbadd.cjt,0,3,544
+re_idx1.cjt,0,2,41
+re_idx2.cjt,0,2,544
+rel_idx1.cjt,0,2,32
+rel_off1.cjt,0,2,32
+rel_str1.cjt,0,-1,408
+re_off1.cjt,0,2,40
+re_str1.cjt,0,-1,469
+reldbadd.cjt,0,3,32
+sddbadd.cjt,0,4,33
+resdsidx.cjt,0,3,33
+resdwidx.cjt,0,3,32
+reofflst.cjt,0,3,3

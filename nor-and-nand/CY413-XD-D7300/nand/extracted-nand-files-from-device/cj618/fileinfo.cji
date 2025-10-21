@@ -1,0 +1,16 @@
+rs_comp.cjd,123027,16384
+rsl_comp.cjd,8183,2048
+rsadbadd.cjt,0,3,650
+rs_dbadd.cjt,0,3,650
+rs_idx1.cjt,0,2,51
+rs_idx2.cjt,0,2,650
+rsl_idx1.cjt,0,2,50
+rsl_off1.cjt,0,2,50
+rsl_str1.cjt,0,-1,627
+rs_off1.cjt,0,2,50
+rs_str1.cjt,0,-1,627
+rsldbadd.cjt,0,3,50
+sddbadd.cjt,0,4,51
+rssdsidx.cjt,0,3,51
+rssdwidx.cjt,0,3,50
+rsofflst.cjt,0,3,2

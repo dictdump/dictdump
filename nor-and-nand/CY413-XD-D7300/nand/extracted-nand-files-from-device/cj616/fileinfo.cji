@@ -1,0 +1,16 @@
+rb_comp.cjd,139872,16384
+rbl_comp.cjd,9094,2048
+rbadbadd.cjt,0,3,780
+rb_dbadd.cjt,0,3,780
+rb_idx1.cjt,0,2,61
+rb_idx2.cjt,0,2,780
+rbl_idx1.cjt,0,2,60
+rbl_off1.cjt,0,2,60
+rbl_str1.cjt,0,-1,752
+rb_off1.cjt,0,2,60
+rb_str1.cjt,0,-1,752
+rbldbadd.cjt,0,3,60
+sddbadd.cjt,0,4,61
+rbsdsidx.cjt,0,3,61
+rbsdwidx.cjt,0,3,60
+rbofflst.cjt,0,3,4
