@@ -1,0 +1,17 @@
+b_comp.cjd,33065,8192
+k_comp.cjd,59707,4096
+b_dbadd.cjt,0,3,933
+b_idx1.cjt,0,2,9
+b_idx2.cjt,0,2,933
+b_off1.cjt,0,2,8
+b_str1.cjt,0,-1,23
+k_dbadd.cjt,0,3,695
+k_idx1.cjt,0,2,4
+k_idx2.cjt,0,2,695
+k_off1.cjt,0,2,3
+k_str1.cjt,0,-1,26
+b_sdsidx.cjt,0,3,934
+b_sdwidx.cjt,0,3,945
+k_sdsidx.cjt,0,3,1391
+k_sdwidx.cjt,0,3,1394
+sddbadd.cjt,0,4,2340
