@@ -1,0 +1,14 @@
+h_comp.cjd,59554,8192
+m_comp.cjd,54430,8192
+h_dbadd.cjt,0,3,304
+h_idx.cjt,0,2,304
+h_ntab.cjt,0,2,304
+h_sidx.cjt,0,2,304
+kb_idx.cjt,0,2,8
+kb_off.cjt,0,2,7
+kb_str.cjt,0,-1,33
+kt_idx.cjt,0,2,20
+kt_off.cjt,0,2,19
+kt_str.cjt,0,-1,41
+m_dbadd.cjt,0,3,304
+offlst.cjt,0,3,2
