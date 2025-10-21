@@ -1,0 +1,15 @@
+h_comp.cjd,1081763,262144
+y_comp.cjd,1761359,262144
+m_comp.cjd,194866,32768
+r_comp.cjd,1707041,262144
+h_dbadd.cjt,0,3,5967
+h_ynum.cjt,0,1,5967
+y_dbadd.cjt,0,3,24062
+m_dbadd.cjt,0,3,21174
+m_lidx.cjt,0,2,21175
+m_list.cjt,0,2,34291
+r_dbadd.cjt,0,3,61389
+r_fkidx.cjt,0,3,30073
+r_fkoff.cjt,0,3,30072
+r_fkstr.cjt,0,-1,30072
+r_kidx.cjt,0,3,895799

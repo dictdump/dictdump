@@ -1,0 +1,15 @@
+comp.cjd,20055388,1048576
+rf_comp.cjd,5178620,1048576
+ex_comp.cjd,8158217,1048576
+rf_dbadd.cjt,0,3,251086
+rf_fkidx.cjt,0,3,54281
+rf_fkoff.cjt,0,3,54280
+rf_fkstr.cjt,0,-1,170343
+rf_kidx.cjt,0,4,2533257
+ex_dbadd.cjt,0,3,234083
+btab.cjt,0,3,230650
+dbadd.cjt,0,4,230650
+tabdbadd.cjt,0,4,3
+sjidx.cjt,0,3,187330
+sjoff.cjt,0,3,187330
+sjstr.cjt,0,-1,532105
